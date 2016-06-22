@@ -1,3 +1,7 @@
-# Pagerank implementation with a flattened linked list structure on the GPU (using CUDA)
+### Pagerank implementation with a flattened linked list structure on the GPU (using CUDA)
+
 Not really for public eyes.
 
+Can handle graphs up to slightly over ~66 million nodes. Use /graphGenerator to do so
+
+[Note: this was run on a Quadro K4000, and the code expects to be able to run at least 1024 concurrent threads.]  
