@@ -1,0 +1,1 @@
+Pagerank implementation on the CPU where I flattened the linked list structure. This is to compare performance to the GPU implementation (pagerank_linked_mem_transfer)

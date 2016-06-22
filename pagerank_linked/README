@@ -1,0 +1,1 @@
+Pagerank implementation on the GPU using cudaMallocManaged for unified memory. Turns out to be very slow. Bad idea. See pagerank_linked_mem_transfer for a good GPU implementation. 

@@ -1,0 +1,1 @@
+CPU implementation of pagerank that uses a modified linked list structure. Instead of pointers to the next node, we have an integer of the next node's index within the node array.

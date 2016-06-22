@@ -1,0 +1,1 @@
+This is my GPU enabled pagerank calculation using a matrix approach. However, this code was written ***not*** to be scalable or even work outside of my test case. See pagerank_linked_mem_transfer for a good implementation.
