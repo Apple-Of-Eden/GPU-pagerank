@@ -1,0 +1,1 @@
+Each "pagerank[...]" folder is a different implementation of pagerank on the GPU or CPU. The best CUDA GPU version is /pagerank_linked_mem_transfer. 
